@@ -1,0 +1,15 @@
+MomentsDaily JoyTracker is a beautiful and mindful app designed to help you capture and celebrate the small joys in your daily life. Unlike strict habit trackers, MomentsDaily JoyTracker focuses on visual pleasure, simplicity, and positive reinforcement.
+
+The Today screen lets you view all your special MomentsDaily JoyTracker from the day, displayed on beautiful pastel colored cards with emojis. It includes daily inspirational quotes to brighten your day and a quick add button for instant moment capture. The MomentsDaily JoyTracker Library allows you to browse your entire collection, with smart sorting by frequency, quick search functionality, and one tap access to add MomentsDaily JoyTracker to the current day.
+
+With Quick Add, you can create MomentsDaily JoyTracker simply and efficiently using a character-limited entry system, an emoji picker with your recently used emojis, smooth animations, and haptic feedback. The Statistics section highlights your top five most frequent MomentsDaily JoyTracker, includes an activity heatmap calendar, time of day distribution charts, and helps you track your positivity streak.
+
+In the Profile & Settings, you can set a personalized profile photo, daily goal reminders, and customizable notifications. There's also an option for data export, all within a clean, minimal interface.
+
+MomentsDaily JoyTracker is perfect for mindfulness practitioners, people managing stress, gratitude journaling, positive psychology enthusiasts, or anyone seeking more joy in daily life. It features a beautiful pastel design with soft colors, supports dark mode, adapts to all iPhone sizes, and includes smooth animations and transitions. With local data storage powered by Core Data, MomentsDaily JoyTracker is privacy focused your data stays on your device. There are no ads or subscriptions; it’s a one time purchase.
+
+So why MomentsDaily JoyTracker? In our fast paced world, it’s easy to overlook the little MomentsDaily JoyTracker of joy that happen every day. MomentsDaily JoyTracker helps you pause, reflect, and appreciate these special instances-whether it’s a perfect cup of coffee, a beautiful sunset, a kind gesture, or a moment of peace.
+
+Research shows that regularly acknowledging positive experiences can increase overall happiness, reduce stress and anxiety, improve mental well being, enhance gratitude practices, and help form lasting positive habits.
+
+The app is built on the belief that tracking should be enjoyable, not a chore. With its soft pastel colors, rounded corners, and smooth animations, every interaction feels delightful. MomentsDaily JoyTracker encourages mindfulness without pressure, making positivity tracking a natural part of your everyday life.
