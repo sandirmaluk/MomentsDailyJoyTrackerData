@@ -1,0 +1,1 @@
+Melhorias de desempenho, correções de bugs
